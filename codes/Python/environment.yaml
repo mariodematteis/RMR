@@ -1,0 +1,14 @@
+name: RMR
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python>=3.11,<3.12
+  - ipython
+  - ipykernel
+  - pip
+  - pip:
+    - matplotlib
+    - numpy
+    - torch
+    - yfinance
