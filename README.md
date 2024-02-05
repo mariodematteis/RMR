@@ -20,4 +20,4 @@ The project has been implemented in __three different programming languages__:
 - ___Python___
 - ___MATLAB___
 
-A paper is available.
+A _paper_ is available: ___'Risk Management.pdf'___.
