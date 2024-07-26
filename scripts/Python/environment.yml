@@ -1,4 +1,4 @@
-name: RMR
+name: RiskManegementResearch
 channels:
   - default
   - conda-forge
@@ -8,7 +8,7 @@ dependencies:
   - ipykernel
   - pip
   - pip:
-    - matplotlib
-    - numpy
-    - torch
-    - yfinance
+    - matplotlib==3.9.1
+    - numpy==1.26.4
+    - torch==2.2.2
+    - yfinance==0.2.41
