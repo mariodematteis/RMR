@@ -1,4 +1,4 @@
-name: RiskManegementResearch
+name: RiskManagementResearch
 channels:
   - default
   - conda-forge
